@@ -1,0 +1,51 @@
+
+
+
+Intro 
+
+	This game is about our main character NAME, who born in the conflicts between human and ghost.
+	The goal of the game is to defeat ghosts by different method. This is a 3D action and adventure
+	game on PC platform that support VR device additionally. The player can choose difficulty and play in
+	single-player-mode.
+
+	This report covers the basic consideration of the game design including constraints, requirements, marketing etc. 
+	This document includes all major aspect of this game design as well, such as game story, environment, level of design,
+	maps, character and object design, user interface design. Moreover, it covers the play mode, audio and visual requirements of the game by a list.
+	In addition, this document specifies the platform and requirements for both playing and developing the game
+	specifically the hardware and software requirements. Finally, it mentions the project management related issue
+	such as the project plan, resources required and the budget estimation.
+
+	By reading this document, programmers and game artists of development team should be able to work 
+	independently on their assigned tasks and testers should be able to prepare a complete test plan for 
+	testing the game.
+
+Game Overview
+
+	Background	
+	
+		This was a normally developed world. If nothing goes wrong, human will dominates the world 
+		with intelligence eventually. However one day, another world crashed on the world and they started to combine.
+		Ghosts, monsters started to destroy human because of their invisability. NAME was born after World
+		Collision and he has a special ability to enter ghost vision. With this ability, he decided to protect the others.
+		
+	Play mode
+	
+		Single Player Mode with Difficulty selection.
+		There are 3 difficulty can be selected:
+			"Easy" : For newbies players
+			"Normal" : For players that wants to experience fully
+			"Hard" : For players that challenge themself
+			
+	System Architecture
+	
+		
+		
+	
+
+		
+		
+	
+	
+
+
+
