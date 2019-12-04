@@ -50,12 +50,26 @@ Game Overview
 	
 		
 		
-	
+/-------------Anson------------------------/
 
+Hardware Requirements	
+		keyboard
+		mouse
+		VR Device
+		PC with CPU: Intel® Core™ i5 or above 
+		RAM:8.00GB or above
+		Graphics card: GeForce GTX 960 or above
+ 		Hard Disk: 1 TB
+
+Software Requirements
+		Unity 2018 or above
+		Computer System: Windows 7 32-bit/64-bit  or above
 		
-		
-	
-	
+Technical Considerations
+		2D/3D Graphics: 3ds  Max 2016 or above
+		Database: Microsoft Access
+		Programming Language(s):Visual Studio 2017 or above
+		Networking:Wired network
 
 
-
+/---------------------------------------------/
