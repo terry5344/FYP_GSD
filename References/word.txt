@@ -19,6 +19,16 @@ Intro
 	independently on their assigned tasks and testers should be able to prepare a complete test plan for 
 	testing the game.
 
+Game Design
+
+	Constraints and Requirement
+	
+	Market Researches
+	
+	
+	
+	
+	
 Game Overview
 
 	Background	
